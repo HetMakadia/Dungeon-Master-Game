@@ -20,3 +20,10 @@ Project Setup Steps:
 8. Incorporate healing mechanism: Design a healing system that allows the player to restore health points when needed. This could involve items, spells, or rest areas within the maze.
 9. Define start and finish rooms: Determine the layout of the maze and designate a specific room as the start point and another as the finish point. Ensure that the maze generation algorithm accounts for these requirements.
 10. Test and debug: Thoroughly test your program to ensure that it functions as intended. Debug any issues or errors that arise during testing.
+
+
+
+
+https://github.com/HetMakadia/Dungeon-Master-Game/assets/65148978/bfc8bda4-8ffc-4b36-adfb-eb719d052ace
+
+
